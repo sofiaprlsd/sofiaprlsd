@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Mechatronics, AI applications**
 
+- 📝 I regularly write articles on [https://spd-proyectos.blogspot.com/](https://spd-proyectos.blogspot.com/)
+
 - ⚡ Fun fact **I know a bit of Croatian**
 
 <h3 align="left">Connect with me:</h3>
