@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofiaprlsd" alt="sofiaprlsd" /></a> </p>
 
-- 🔭 I’m currently working on **my studies**
+- 🔭 I’m currently working at **HISPAMAST**
 
-- 🌱 I’m currently learning **Mechatronics, AI applications**
+- 🌱 I’m currently learning to develop **security projects for defense vehicles**
 
 - 📝 I regularly write articles on [https://spd-proyectos.blogspot.com/](https://spd-proyectos.blogspot.com/)
 
